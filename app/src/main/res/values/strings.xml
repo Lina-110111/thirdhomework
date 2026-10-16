@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">huanglina2024110111</string>
+    <!-- 主界面 -->
+    <string name="hint_name">请输入你的名字</string>
+    <string name="btn_second">Second Activity（传参）</string>
+    <string name="btn_third">Third Activity（返回值）</string>
+    <string name="btn_fourth">Fourth Activity（拍照）</string>
+    <string name="btn_fifth">Fifth Activity（秒表）</string>
+    <!-- 二级界面 -->
+    <string name="received_name">接收到的名字：%s</string>
+    <string name="btn_confirm">确定并返回</string>
+    <string name="btn_take_photo">拍照</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_reset">重置</string>
+    <string name="default_time">00:00</string>
+</resources>
